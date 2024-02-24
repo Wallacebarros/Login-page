@@ -1,0 +1,10 @@
+:root {
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&family=Roboto:wght@300;500;700&display=swap')
+
+  --color-withe: #d8d8d8;
+  --color-graw: #f8f8f8;
+  --color-blue: #3395FF;
+  
+  --font-primary: "Montserrat", sans-serif;
+  --font-secud: "Roboto", sans-serif;
+}
