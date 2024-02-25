@@ -1,7 +1,9 @@
 :root {
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&family=Roboto:wght@300;500;700&display=swap')
 
-  --color-withe: #F8F8F8;
+  --a: white;
+  
+  --color-white: #f8f8f8;
   --color-graw: #909090;
   --color-blue: #45A6FF;
   
