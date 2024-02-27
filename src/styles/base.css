@@ -1,3 +1,7 @@
+html {
+    min-width: 260px;
+}
+
 main {
     background-color: var(--color-white);
     min-height: 100vh;

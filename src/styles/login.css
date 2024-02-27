@@ -1,7 +1,7 @@
 .login__title {
     font-family: var(--font-second);
     font-weight: 800;
-    margin-bottom: calc(-5vh -2vw);
+    margin-bottom: 10vh;
 }
 
 .login__list {
@@ -59,7 +59,7 @@
 }
 
 .login__input {
-    margin: calc(8vh - 2vw);
+    margin: calc(8vh - 2vw) 0;
     margin-bottom: 16px;
     width: 50%;
 }

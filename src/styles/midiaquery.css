@@ -1,0 +1,27 @@
+@media screen and (max-width: 750px) {
+    .register {
+        display: none;
+    }
+
+    .login {
+        width: 100%;
+        margin: 15vh 0;
+    }
+
+    .login__title {
+        margin-bottom: 7vh;
+    }
+
+    .login__input {
+        margin: 24px 0;
+    }
+
+    .login__input > input {
+        font-size: 1.2em;
+        height: 20px;
+    }
+
+    .login__btn {
+        margin-top: 5vh;
+    }
+}
