@@ -8,7 +8,9 @@ main {
 }
 
 .login {
+    color: var(--color-blue);
     width: 75%;
+    overflow: hidden;
 }
 
 .register {
