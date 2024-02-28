@@ -71,6 +71,7 @@
     height: 35px;
     width: 100%;
     padding: 4px 12px;
+    margin-top: 4px;
     border: 1px solid var(--color-gray);
     border-radius: 4px;
     
@@ -101,9 +102,20 @@
     font-size: 1.02em;
 }
 
+.login__btn > a {
+    text-decoration: none;
+    color: var(--color-blue);
+}
+
 .login__recover {
     margin-top: -10px;
     text-decoration: none;
     color: var(--color-blue);
     font-size: 0.7em;
+}
+
+.login__span {
+    color: rgb(238, 80, 80);
+    font-weight: bold;
+    display: none;
 }

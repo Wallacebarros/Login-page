@@ -34,17 +34,20 @@
           </li>
         </ul>
         <p class="login__division">ou</p>
-        <form action="#" method="post" class="login__forms">
+        <!-- <form action="#" method="post" class="login__forms"> -->
           <div class="login__input is--name">
-            <input type="text" placeholder="Nome">
+            <span class="login__span is--user">Nome de usuario invalido</span>
+            <input type="text" placeholder="Nome" id="userName">
           </div>
           <div class="login__input is--password">
-            <input type="password" placeholder="Senha">
+            <span class="login__span is--user">Nome de usuario invalido</span>
+            <input type="password" placeholder="Senha" id="password">
           </div>
-          <button class="login__btn">Enviar</button><br>
+          <button class="login__btn" id="btn" onclick="clicar()"><a href="#">Enviar</a></button><br>
           <a href="#" class="login__recover">esqueci minha senha</a>
-        </form>
+        <!-- </form> -->
       </section>
     </main>
 </body>
+<script src="src/main.js"></script>
 </html>
