@@ -12,7 +12,7 @@ Este é um projeto de uma tela de Login responsiva desenvolvida utilizando HTML,
   - simulei uma validação muito basica em javascript.
   - para logar usse o usuario Stive e senha 12345.
 
-3. Clone o repositório:
+2. Clone o repositório:
 
    ```bash
    git clone Wallacebarros/Login-page
