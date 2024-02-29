@@ -4,10 +4,11 @@ html {
 
 main {
     background-color: var(--color-white);
+    max-height: 100vh;
     min-height: 100vh;
 
     font-family: var( --font-primary);
-    font-size: clamp(1.2rem, 2vw, 1.8rem);
+    font-size: clamp(1.2rem, 2vw, 1.3rem);
     display: flex;
 }
 

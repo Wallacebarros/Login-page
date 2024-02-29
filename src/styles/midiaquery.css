@@ -1,11 +1,12 @@
 @media screen and (max-width: 750px) {
+
     .register {
         display: none;
     }
 
     .login {
         width: 100%;
-        margin: 15vh 0;
+        margin: auto 0;
     }
 
     .login__title {

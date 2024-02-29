@@ -31,10 +31,7 @@ function passwordAutentication() {
     }
 }
 
-// console.log(btn.firstChild);
-
 function clicar () {
-    // let teste = userNameAutentication()
     if (! userNameAutentication()) return 
 
     if (! passwordAutentication()) return
